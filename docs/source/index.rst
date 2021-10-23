@@ -11,6 +11,12 @@ This collection of projects and documentation serve as an archive to my progress
 the Fundamentals of Machine Learning. Content will be referenced from the course `Machine Learning Course for Beginners <https://www.youtube.com/watch?v=NWONeJKn6kc>`_
 from the `Free Code Camp Institute <https://www.freecodecamp.org>`_.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: External Documentation
+
+   modules/setup
+   modules/references
 
 **Introduction to Machine Learning**
 =====================================
@@ -19,7 +25,6 @@ Some pages will possibly have submodules, as well as projects referenced. The so
 code for projects will be in the root of the repository, but code blocks and explanations
 will be referenced in root/docs.
 
-The initial setup for the development environment prior to the course can be found :ref:`here <setup>`.
 
 The content of the course will be layed out into the following sections:
    * Course Introduction
@@ -49,6 +54,7 @@ The content of the course will be layed out into the following sections:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Course Work Documentation:
 
+   modules/introduction
    modules/fundamentals
