@@ -6,4 +6,7 @@
 **Fundamentals of Machine Learning**
 =====================================
 
+What Is Machine Learning?
+**************************
 
+placement_text

@@ -8,8 +8,8 @@
 Abstract
 =========
 This collection of projects and documentation serve as an archive to my progressive education into
-the Fundamentals of Machine Learning. Content will be referenced from the course `Machine Learning Course for Beginners <https://www.youtube.com/watch?v=NWONeJKn6kc>`_
-from the `Free Code Camp Institute <https://www.freecodecamp.org>`_.
+the Fundamentals of Machine Learning. Content will be referenced from the 10 hour course `Machine Learning Course for Beginners <https://www.youtube.com/watch?v=NWONeJKn6kc>`_
+from `Free Code Camp Institute <https://www.freecodecamp.org>`_.
 
 .. toctree::
    :maxdepth: 2
