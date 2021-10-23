@@ -6,4 +6,4 @@
 **Fundamentals of Machine Learning**
 =====================================
 
-placement text fundamentals
+
